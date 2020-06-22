@@ -1,0 +1,49 @@
+{
+  "main": {
+    "name": "Trevor Handley",
+    "description": "Junior-Level Full Stack Developer who is looking for an opportunity that will not only utilize my current skillsets but will allow for my professional growth as a Developer.",
+    "image": "Profile_Pic.jpg",
+    "bio": "A fast learner, hard worker, able to work as a team player and as an individual who has experience in the MERN Stack as well as other technologies.",
+    "email": "trevor.handley@gmail.com",
+    "phone": "904-907-7594",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tmhandley/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/THandley19",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "GroceryBuddy",
+        "image": "GroceryBuddy.png",
+        "source_code": "https://github.com/THandley19/Project-2",
+        "demo": "https://ucfbootcampproject2.herokuapp.com/"
+      },
+      {
+        "title": "LIRI-Node-APP",
+        "image": "LIRI-Node-APP.png",
+        "source_code": "https://github.com/THandley19/liri-node-app"
+      },
+      {
+        "title": "GifTastic",
+        "image": "GifTastic.png",
+        "source_code": "https://github.com/THandley19/giftastic",
+        "demo": "https://giftastic-v2.herokuapp.com/"
+      },
+      {
+        "title": "GoogleBooks",
+        "image": "GoogleBooks.png",
+        "source_code": "https://github.com/THandley19/googlebooks",
+        "demo": "https://cryptic-plains-66303.herokuapp.com/"
+      }
+    ]
+  }
+}
