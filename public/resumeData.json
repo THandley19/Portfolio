@@ -62,7 +62,7 @@
         "source_code": "https://github.com/THandley19/Star-Wars-RPG-Game",
         "demo": "https://thandley19.github.io/Star-Wars-RPG-Game/",
         "tech": ["HTML5", "CSS", "Bootstrap", "Javascript", "jQuery"]
-      },
+      }
     ]
   }
 }
