@@ -25,25 +25,44 @@
         "title": "GroceryBuddy",
         "image": "GroceryBuddy.png",
         "source_code": "https://github.com/THandley19/Project-2",
-        "demo": "https://ucfbootcampproject2.herokuapp.com/"
+        "demo": "https://ucfbootcampproject2.herokuapp.com/",
+        "tech": [
+          "Javascript",
+          "Node.js",
+          "Express.js",
+          "MySQL",
+          "Sequelize",
+          "Handlebars",
+          "Passport"
+        ]
       },
       {
         "title": "LIRI-Node-APP",
         "image": "LIRI-Node-APP.png",
-        "source_code": "https://github.com/THandley19/liri-node-app"
+        "source_code": "https://github.com/THandley19/liri-node-app",
+        "tech": ["Spotify-API", "Axios", "Javascript", "Node.js"]
       },
       {
         "title": "GifTastic",
         "image": "GifTastic.png",
         "source_code": "https://github.com/THandley19/giftastic",
-        "demo": "https://giftastic-v2.herokuapp.com/"
+        "demo": "https://giftastic-v2.herokuapp.com/",
+        "tech": [
+          "Javascript",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "React"
+        ]
       },
       {
-        "title": "GoogleBooks",
-        "image": "GoogleBooks.png",
-        "source_code": "https://github.com/THandley19/googlebooks",
-        "demo": "https://cryptic-plains-66303.herokuapp.com/"
-      }
+        "title": "Star Wars RPG Game",
+        "image": "star_wars_rpg.PNG",
+        "source_code": "https://github.com/THandley19/Star-Wars-RPG-Game",
+        "demo": "https://thandley19.github.io/Star-Wars-RPG-Game/",
+        "tech": ["HTML5", "CSS", "Bootstrap", "Javascript", "jQuery"]
+      },
     ]
   }
 }

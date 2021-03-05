@@ -12,12 +12,19 @@ class Portfolio extends Component {
                 <img alt={projects.title} src={projectImage} />
                 <div className="portfolio-item-meta">
                   <h4>{projects.title}</h4>
-                  <a href={projects.source_code} target="_blank">
-                    Source Code
-                  </a>
-                  <a href={projects.demo} target="_blank">
-                    Live Demo
-                  </a>
+                  {projects.tech.map(function (tech) {
+                    return <li>{tech}</li>;
+                  })}
+                  <button type="button" class="btn btn-primary">
+                    <a href={projects.source_code} style={{ color: "white" }}>
+                      Source Code
+                    </a>
+                  </button>
+                  <button type="button" class="btn btn-primary">
+                    <a href={projects.demo} style={{ color: "white" }}>
+                      Live Demo
+                    </a>
+                  </button>
                 </div>
               </a>
             </div>
